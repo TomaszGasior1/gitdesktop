@@ -1,3 +1,3 @@
-# test mumber 2
+# test number 2
 For GitHub desktop
 ...
